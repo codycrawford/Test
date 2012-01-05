@@ -9,6 +9,4 @@ void timer(void)
    
    result = x + y;
    
-   x = result;
-   
 }
