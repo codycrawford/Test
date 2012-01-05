@@ -3,7 +3,7 @@
 void main(void)
 {
    int number = 0;
-   int x, pause;
+   int y, pause;
    
    //string pause;
    
@@ -14,7 +14,7 @@ void main(void)
       
    }
    
-   pause = scanf("%d", &x);
+   pause = scanf("%d", &y);
    
 }
       
