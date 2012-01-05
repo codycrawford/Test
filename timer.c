@@ -9,4 +9,12 @@ void timer(void)
    
    result = x + y;
    
+   int i;
+   for (i = 0; i < 10; i++)
+   {
+       if (result == i)
+       {
+          x = i;
+       }
+   }
 }
