@@ -7,7 +7,7 @@ void main(void)
    
    //string pause;
    
-   while (number < 5)
+   while (number < 10)
    {
       printf("%d\n", number);
       number++;
