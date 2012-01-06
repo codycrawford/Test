@@ -4,14 +4,14 @@ void main(void)
 {
    int number = 0;
    int y, pause;
+   int i;
    
    //string pause;
    
-   while (number < 10)
+   for (i = 0; i < 10; i++) 
    {
-      printf("%d\n", number);
+      printf("%d  ", number);
       number++;
-      
    }
    
    pause = scanf("%d", &y);
