@@ -10,7 +10,7 @@ void main(void)
    
    for (i = 0; i < 10; i++) 
    {
-      printf("%d  ", number);
+      printf("%d  ", number*2);
       printf("%d\n", i);
       number++;
    }
